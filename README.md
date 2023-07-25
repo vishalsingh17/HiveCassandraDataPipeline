@@ -46,6 +46,6 @@ docker-compose up
 
 4. Follow the installation steps from [here](https://phoenixnap.com/kb/install-cassandra-on-windows)
 
-5. Create a table using cql.
+5. Create a keyspace and table using cql.
 
 6. Create a new notebook and run the commands in the pyspark_cassandra.ipynb
