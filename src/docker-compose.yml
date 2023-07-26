@@ -157,6 +157,7 @@ services:
     ports:
       - 4888:4888
 
+
 volumes:
   hadoop_namenode:
   hadoop_datanode:
