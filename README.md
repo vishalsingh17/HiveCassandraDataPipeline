@@ -26,7 +26,7 @@ cd src
 
 4. Run the docker compose file
 ```bash
-docker-compose up
+docker-compose up -d
 ```
 
 5. Open the browser and go to [link](https://localhost:4888)
